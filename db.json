@@ -1,0 +1,46 @@
+{
+  "categories": [
+    {
+      "id": 1,
+      "name": "Adias"
+    },
+    {
+      "id": 2,
+      "name": "Nikes"
+    },
+    {
+      "id": 3,
+      "name": "Thượng Đình"
+    }
+  ],
+  "products": [
+    {
+      "id": "24",
+      "cate_id": 3,
+      "name": "Sleek Frozen Chips",
+      "image": "http://lorempixel.com/640/480/sports",
+      "price": "697.00"
+    },
+    {
+      "id": "pg3zupcys",
+      "name": "Nguyễn Anh Vũ 2",
+      "cate_id": "2",
+      "image": "https://firebasestorage.googleapis.com/v0/b/project-35866.appspot.com/o/images%2F%E1%BA%A3nh%20knht.png?alt=media&token=8d2e40c6-6bca-40ce-993d-4143e424bcb3",
+      "price": "300.000"
+    },
+    {
+      "id": "kepqcotrf",
+      "name": "Deven Carroll DDS2",
+      "cate_id": "1",
+      "image": "https://firebasestorage.googleapis.com/v0/b/project-35866.appspot.com/o/images%2F364192709.jpg?alt=media&token=d1a45db4-55fb-4f0a-bbd4-96498757819a",
+      "price": "300.000"
+    },
+    {
+      "id": "cnjoiyoej",
+      "name": "Nguyễn Anh Vũ2",
+      "cate_id": "2",
+      "image": "https://firebasestorage.googleapis.com/v0/b/project-35866.appspot.com/o/images%2FBay-sai-lam-khi-quan-ly-thoi-gian.jpg?alt=media&token=66b6ff4c-6b9f-4dcd-b03e-5fc6c7354e11",
+      "price": "300.000"
+    }
+  ]
+}
